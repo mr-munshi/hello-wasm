@@ -1,1 +1,1 @@
-<h1 style="text-align: center;">hello_wasm</h1>
+<h1 align="center">hello_wasm</h1>
